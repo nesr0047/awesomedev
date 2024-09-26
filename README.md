@@ -1,4 +1,1 @@
-# awesomedev
-
-# This is very cool 
-#### This is awesome
+# Git commands I should know by heart
